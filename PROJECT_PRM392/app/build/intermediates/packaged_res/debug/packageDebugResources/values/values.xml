@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <string name="app_name">Project_PRM392</string>
+    <style name="Theme.Project_PRM392" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="ToolbarTitleStyle">
+        <item name="android:textSize">20sp</item> 
+        <item name="android:textStyle">bold</item> 
+        <item name="android:textColor">@android:color/black</item> 
+    </style>
+</resources>

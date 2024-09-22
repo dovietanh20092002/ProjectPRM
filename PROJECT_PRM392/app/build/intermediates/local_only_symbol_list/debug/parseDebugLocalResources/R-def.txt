@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorBackground
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable search_view_background
+id listviewmanhinhchinh
+id main
+id navigationView
+id recyclerview
+id toolbar
+id viewFlipper
+layout activity_main_app
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Project_PRM392
+style ToolbarTitleStyle
+xml backup_rules
+xml data_extraction_rules
